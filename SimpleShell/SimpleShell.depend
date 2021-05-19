@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1619487310 source:/home/asmaa/Desktop/SimpleShell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<readline/readline.h>
+
+1619487310 source:c:\users\carnival\desktop\simpleshell\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<readline/readline.h>
+
